@@ -42,6 +42,8 @@ int main() {
 Output: jils@Inspiron-3593:/mnt/e/ss/hands-on-list-1$ ./a.out
 	Parent (PID=425) wrote to file.
 	Child (PID=426) wrote to file.
-	jils@Inspiron-3593:/mnt/e/ss/hands-on-list-1$
+	jils@Inspiron-3593:/mnt/e/ss/hands-on-list-1$cat output22.txt
+	Message from Parent process
+	Message from Child process
 ==============================================================
 */
