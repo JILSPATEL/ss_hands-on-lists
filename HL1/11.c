@@ -31,8 +31,10 @@ int main(){
 /*
 =================================================================
 Output: jils@Inspiron-3593:/mnt/e/SS/hands-on-list-1$ cc 12.c
-		jils@Inspiron-3593:/mnt/e/SS/hands-on-list-1$ ./a.out
-		READ & WRITE
-		jils@Inspiron-3593:/mnt/e/SS/hands-on-list-1$
+		jils@Inspiron-3593:/mnt/e/SS/hands-on-list-1$ cat test11.txt
+		Written from fd1
+		Written from fd2 copy From fd1
+		Written from fd3 copy from fd1
+		Written from fd4 copy from fd1
 =================================================================
 */
